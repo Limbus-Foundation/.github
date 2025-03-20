@@ -1,10 +1,9 @@
 
 <p align="center">
-  <img style="width: 100%; box-sizing: border-box;" src="https://github.com/user-attachments/assets/91351e2e-b569-4c1c-b27d-ff451b2079aa" alt="Limbus Foundation Logo" width="200">
+  <img style="width: 100%; box-sizing: border-box;" src="https://github.com/user-attachments/assets/ed21d28b-9bab-4647-ab29-35cc39fc6a0c" alt="Limbus Foundation Logo" width="200">
 </p>
 
 # Limbus Foundation 
-
 
 
 
